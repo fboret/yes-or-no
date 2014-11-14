@@ -28,12 +28,16 @@ body {
 #footer a {
   color: #48AEE3;
   text-decoration: none;
+  font-size: 30px;
+  display: inline-block;
+  margin: 0 10px;
 }
 
 #footer a:hover {
   color: white;
   transition: color 1s ease;
 }
+
 
 .btn-blue {
   background-color: #48AEE3;
